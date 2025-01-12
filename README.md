@@ -16,10 +16,10 @@ Choose data for specific departments like Human Resources, Research & Developmen
 
 Key Metrics:
 ----------------
-Total number of employees
-Number of employees leaving (attrition) and the attrition rate
-Average age of employees
-Average salary
+Total number of employees,
+Number of employees leaving (attrition) and the attrition rate,
+Average age of employees,
+Average salary,
 Average years employees stay in the company
 
 Steps I Followed:
